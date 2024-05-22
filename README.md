@@ -13,26 +13,26 @@ Dataset/
 ├── Grayscale_Image/
 │   ├── Combination1_9.027MHz_500Hz/
 │   │    ├── 0/
-│   │    │     ├── <font size=3>num_19_PRN_2_multi1_1.00_delay_0.80_gain_-0.54_multi2_1.00_delay_1.80_gain_0.34.png</font> 
-│   │    │     └── <font size=3>...</font>.
+│   │    │     ├── num_19_PRN_2_multi1_1.00_delay_0.80_gain_-0.54_multi2_1.00_delay_1.80_gain_0.34.png
+│   │    │     └── ...
 │   │    └── 1/
-│   │    │     ├── <font size=3>num_2388_PRN_1_sGain_1.67_sDelay_1.10_multi1_1.00_delay_1.00_gain_0.57_multi2_1.00_delay_0.40_gain_0.21.png</font> 
-│   │    │     └── <font size=3>...</font>
+│   │    │     ├── num_2388_PRN_1_sGain_1.67_sDelay_1.10_multi1_1.00_delay_1.00_gain_0.57_multi2_1.00_delay_0.40_gain_0.21.png
+│   │    │     └── ...
 │   ├── Combination2_16.368MHz_500Hz
 │   │    ├── 0/
-│   │    │     └── <font size=3>...</font>.
+│   │    │     └── ...
 │   │    └── 1/
-│   │          └── <font size=3>...</font>.
+│   │          └── ...
 │   ├── Combination2_16.368MHz_500Hz
 │   │    ├── 0/
-│   │    │     └── <font size=3>...</font>.
+│   │    │     └── ...
 │   │    └── 1/
-│   │          └── <font size=3>...</font>.
+│   │          └── ...
 │   └── Combination2_16.368MHz_500Hz
 │         ├── 0/
-│         │     └── <font size=3>...</font>
+│         │     └── ...
 │         └── 1/
-│                └── <font size=3>...</font>
+│                └── ...
 └── One-dimensional_Correlation_Peak/
     ├── Combination1_9.027MHz_500Hz.csv
     ├── Combination2_16.368MHz_500Hz.csv
