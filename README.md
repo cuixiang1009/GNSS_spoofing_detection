@@ -58,11 +58,11 @@ Dataset/
 
 └── One-dimensional_Correlation_Peak/
 
-    ├── Combination1_9.027MHz_500Hz.csv
+├── Combination1_9.027MHz_500Hz.csv
     
-    ├── Combination2_16.368MHz_500Hz.csv
+├── Combination2_16.368MHz_500Hz.csv
     
-    └── Combination3_25MHz_500Hz.csv
+└── Combination3_25MHz_500Hz.csv
 
 ## 3. File Naming Format
 
