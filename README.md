@@ -52,4 +52,4 @@ $a$ represents the sequence of data production, $b$ represents the satellite $PR
 
 The spoofing signal scenarios：`num_a_PRN_b_sGain_c_sDelay_d_multi1_e_delay_f_gain_g_multi2_h_delay_i_gain_g.png`
 
-Compared with the data of the real signal scenario, the spoofed signal has two more parameters $c$, $d$, which represent the gain and delay of the spoofed signal, respectively.
+Compared with the data of the real signal scenario, the spoofing signal has two more parameters $c$, $d$, which represent the gain and delay of the spoofed signal, respectively.
