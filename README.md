@@ -6,7 +6,7 @@ This repository provides the data used in the paper `"Small Delay GNSS Forwardin
 
 ## 2. File Composition
 
-The `Grayscale_Image` directory contains the data used for training and testing the 2D-CNN model. In this dataset, 0 indicates a real signal scenario, and 1 indicates a spoofing signal scenario. The `One-dimensional_Correlation_Peak` directory contains the data used for training and testing the 1D-CNN and Bi-LSTM models.
+The `Grayscale_Image` directory contains the data used for training and testing the 2D-CNN model. In this dataset, 0 indicates the genuine signal scenarios, and 1 indicates the spoofing signal scenarios. The `One-dimensional_Correlation_Peak` directory contains the data used for training and testing the 1D-CNN and Bi-LSTM models.
 
 ```
 Dataset/
