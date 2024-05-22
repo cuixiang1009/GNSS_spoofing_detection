@@ -2,7 +2,7 @@
 
 ## 1. Description of the  Dataset
 
-This project provides the data used in the paper `"Small Delay GNSS Forwarding Spoofing Detection in Multipath Environment Based on Convolutional Neural Network"`. This paper detects small delay forwarding spoofing interference by identifying the shape characteristics of capture correlation peaks during the signal acquisition process of a GNSS receiver. The raw signals are generated and combined through simulations based on the satellite navigation signal model, the forwarding spoofing signal model, and the multipath signal model. The combined signals are then captured using a software receiver to obtain a two-dimensional acquisition matrix, which undergoes processes such as interception and normalization to obtain the detection matrix. Finally, the detection matrix is saved as a two-dimensional grayscale image for model training and testing.
+This repository provides the data used in the paper `"Small Delay GNSS Forwarding Spoofing Detection in Multipath Environment Based on Convolutional Neural Network"`. This paper detects small delay forwarding spoofing interference by identifying the shape characteristics of capture correlation peaks during the signal acquisition process of a GNSS receiver. The raw signals are generated and combined through simulations based on the satellite navigation signal model, the forwarding spoofing signal model, and the multipath signal model. The combined signals are then captured using a software receiver to obtain a two-dimensional acquisition matrix, which undergoes processes such as interception and normalization to obtain the detection matrix. Finally, the detection matrix is saved as a two-dimensional grayscale image for model training and testing.
 
 ## 2. File Composition
 
