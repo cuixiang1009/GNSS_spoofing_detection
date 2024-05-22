@@ -11,31 +11,57 @@ The `Grayscale_Image` directory contains the data used for training and testing 
 Dataset/
 │
 ├── Grayscale_Image/
+
 │   ├── Combination1_9.027MHz_500Hz/
+
 │   │    ├── 0/
+
 │   │    │     ├── num_19_PRN_2_multi1_1.00_delay_0.80_gain_-0.54_multi2_1.00_delay_1.80_gain_0.34.png
+
 │   │    │     └── ...
+
 │   │    └── 1/
+
 │   │    │     ├── num_2388_PRN_1_sGain_1.67_sDelay_1.10_multi1_1.00_delay_1.00_gain_0.57_multi2_1.00_delay_0.40_gain_0.21.png
+
 │   │    │     └── ...
-│   ├── Combination2_16.368MHz_500Hz
+
+│   ├── Combination2_16.368MHz_500Hz/
+
 │   │    ├── 0/
+
 │   │    │     └── ...
+
 │   │    └── 1/
+
 │   │          └── ...
-│   ├── Combination2_16.368MHz_500Hz
+
+│   ├── Combination2_16.368MHz_500Hz/
+
 │   │    ├── 0/
+
 │   │    │     └── ...
+
 │   │    └── 1/
+
 │   │          └── ...
-│   └── Combination2_16.368MHz_500Hz
+
+│   └── Combination2_16.368MHz_500Hz//
+
 │         ├── 0/
+
 │         │     └── ...
+
 │         └── 1/
+
 │                └── ...
+
 └── One-dimensional_Correlation_Peak/
+
     ├── Combination1_9.027MHz_500Hz.csv
+    
     ├── Combination2_16.368MHz_500Hz.csv
+    
     └── Combination3_25MHz_500Hz.csv
 
 ## 3. File Naming Format
