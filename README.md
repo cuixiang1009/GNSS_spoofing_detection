@@ -46,10 +46,14 @@ Dataset/
 
 $X$ represents the combination name, $Y$ represents the sampling frequency, and $Z$ represents the frequency search step size.
 
-The genuine signal scenarios：`num_a_PRN_b_multi1_c_delay_d_gain_e_multi2_f_delay_g_gain_h.png`
+The genuine signal scenarios：
+
+`num_a_PRN_b_multi1_c_delay_d_gain_e_multi2_f_delay_g_gain_h.png`
 
 $a$ represents the sequence of data production, $b$ represents the satellite $PRN$ number, $c$ represents the identifier of the first multipath signal, where $1$ indicates its presence and $0$ indicates its absence, $d$ represents the delay of the first multipath signal, $e$ represents the attenuation factor of the first multipath signal amplitude, $f$, $g$, and $h$ represent the information of the second multipath signal, with meanings equivalent to those of the first multipath signal information.
 
-The spoofing signal scenarios：`num_a_PRN_b_sGain_c_sDelay_d_multi1_e_delay_f_gain_g_multi2_h_delay_i_gain_g.png`
+The spoofing signal scenarios：
+
+`num_a_PRN_b_sGain_c_sDelay_d_multi1_e_delay_f_gain_g_multi2_h_delay_i_gain_g.png`
 
 Compared with the data of the real signal scenario, the spoofing signal has two more parameters $c$, $d$, which represent the gain and delay of the spoofed signal, respectively.
